@@ -6,6 +6,7 @@ out_json
 evaluation_output
 samples
 results
+documents
 pyproject.toml
 
 # C extensions
